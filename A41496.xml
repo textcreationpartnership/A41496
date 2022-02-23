@@ -1,0 +1,564 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moses made angry, or, A letter written and sent to Dr. Hill, master of Trinity Colledg in Cambridg upon occasion of some hard passages that fell from him in a sermon preached at Pauls, May 4, 1651 / by John Goodwin.</title>
+            <author>Goodwin, John, 1594?-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 27 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41496</idno>
+            <idno type="STC">Wing G1182</idno>
+            <idno type="STC">ESTC R37400</idno>
+            <idno type="EEBO-CITATION">16439096</idno>
+            <idno type="OCLC">ocm 16439096</idno>
+            <idno type="VID">105405</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A41496)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105405)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1093:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moses made angry, or, A letter written and sent to Dr. Hill, master of Trinity Colledg in Cambridg upon occasion of some hard passages that fell from him in a sermon preached at Pauls, May 4, 1651 / by John Goodwin.</title>
+                  <author>Goodwin, John, 1594?-1665.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.M. for Henry Cripps and Lodowick Lloyd ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with some loss of print.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hill, Thomas, d. 1653.</term>
+               <term>Goodwin, John, 1594?-1665. --  Redemption redeemed.</term>
+               <term>Redemption.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105405:1"/>
+            <pb facs="tcp:105405:1" rendition="simple:additions"/>
+            <p>Moſes made Angry:
+OR, A
+LETTER
+WRITTEN and SENT
+To D<hi rend="sup">r</hi> 
+               <hi>Hill,</hi> Maſter of <hi>Trinity</hi> Col<g ref="char:EOLhyphen"/>ledg
+in CAMBRIDG,
+Upon occaſion of ſome hard Paſſages that fell
+from him in a SERMON preached
+at <hi>Pauls,</hi> May 4. 1651.</p>
+            <p>
+               <hi>By</hi> John Goodwin.</p>
+            <q>
+               <p>Them that ſin [<hi>de Presbyteris hoc dictum accipio.</hi> Calvin.] re<g ref="char:EOLhyphen"/>buke
+before all, that others alſo may fear.</p>
+               <bibl>1 Tim. 5. 20.</bibl>
+            </q>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. It is hard for thee to kick againſt
+the pricks.</p>
+               <bibl>Acts 9. 5.</bibl>
+            </q>
+            <q>
+               <l>Obſequium amicos, Veritas odium parit.</l>
+               <l>Paradoxa quidem plurima, quae non paraloga.</l>
+               <l>Si accuſáſſe ſufficiat, quis erit innocens?</l>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>J. M.</hi> for <hi>Henry Cripps</hi> and <hi>Lodowick Lloyd,</hi>
+and are to be ſold at their ſhop in <hi>Popes-head</hi> Alley neer
+<hi>Lumbard</hi> ſtreet. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:105405:2"/>
+            <pb n="3" facs="tcp:105405:2"/>
+            <opener>
+               <salute>M<hi rend="sup">r</hi> Doctor <hi>Hill;</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Underſtand by ſeveral that were your Hearers
+the laſt Lords day, (and theſe not of the weak<g ref="char:EOLhyphen"/>eſt
+or leaſt intelligent of them) that in your Ser<g ref="char:EOLhyphen"/>mon
+at <hi>Pauls</hi> before the Lord Major and Al<g ref="char:EOLhyphen"/>dermen
+of this City, with many others, you
+were pleaſed to vent your ſelf with much un<g ref="char:EOLhyphen"/>ſeemlineſs
+of Paſſion (which gave great offence
+to the ſober and moſt conſiderate part of your Auditory) againſt
+certain Opinions, which through the violence (I in Charity pre<g ref="char:EOLhyphen"/>ſume)
+of the diſtemper then upon you, you ſo far forgat your ſelf
+as to call <hi>Pelagian</hi> and <hi>Arminian;</hi> and that in the heat of your
+Diſcourſe upon this Theam, you reflected in words of much bit<g ref="char:EOLhyphen"/>terneſs,
+and with height of indignation, upon a Book lately pub<g ref="char:EOLhyphen"/>liſhed,
+which (as my Intelligence beareth) you either plainly ſaid,
+or inſinuated, maintains the ſaid Opinions. That by this Book you
+meant that, intituled, <hi>Redemption Redeemed,</hi> your Auditory ge<g ref="char:EOLhyphen"/>nerally
+conceived, and your ſelf (I preſume) will not deny. Sir,
+you are a Gentleman, to whom I never (to the beſt of my know<g ref="char:EOLhyphen"/>ledg)
+gave the leaſt offence: if unwittingly I have done it, I am
+ready to make you all Chriſtian ſatisfaction. For your parts of
+learning and knowledg, according to what grounds I had to make
+an eſtimate of them, I proportionably honored you: and much
+more, becauſe (as I always conceived, until now) you chiefly em<g ref="char:EOLhyphen"/>ployed
+them about that moſt honorable and worthy work of pro<g ref="char:EOLhyphen"/>pagating
+the Glorious Goſpel of God in the World. That teſti<g ref="char:EOLhyphen"/>mony
+alſo and report, which from many hands, time after time, I
+<pb n="4" facs="tcp:105405:3"/>
+received, concerning your Moralities, goodneſs of ſpirit, blame<g ref="char:EOLhyphen"/>leſſneſs
+of converſation, &amp;c. much advanced my eſteem of you.
+Notwithſtanding had you poured ſhame and contempt upon my
+head alone, had you ground to powder onely me, and my Name,
+you might have done it without trouble or inconvenience to your
+ſelf, at leaſt from me: ſuch Millars in black clothing I meet with
+dayly, and let them paſs quietly by me. But in as much as you have
+magnified your ſelf, in your wrath and height of ſpirit, againſt the
+Truth, yea ſeveral of the firſt-born and moſt important Truths of
+the living God, it will neither ſtand with that loyalty of obedience,
+which I owe unto the Command of God impoſed on me in that
+behalf, nor with that love which I owe unto your ſelf as a Chri<g ref="char:EOLhyphen"/>ſtian
+Brother, to ſuffer ſuch a ſin to reſt upon you. The Lord God
+Almighty, before whom I ſtand, knoweth, that I delight not in
+Conteſts with men: I am all deſires made, for peace with all men,
+and for a quiet and retired pilgrimage on Earth. So that whenſo<g ref="char:EOLhyphen"/>ever
+I contend with any man, I ſacrifice the darling-diſpoſition of
+my Soul upon the ſervice of the Truth. Nor ſhall any man approve
+himſelf more eaſie to be entreated, upon any equitable, yea or toler<g ref="char:EOLhyphen"/>able
+account, or more willing to receive ſatisfaction from him that
+hath offended him, then I. Therefore Sir, I beſeech you, trouble
+not, diſhonor not your ſelf, either with ſeeking out, or with pre<g ref="char:EOLhyphen"/>tending
+to finde, any other conſtruction, meaning, or intent of this
+Addreſs unto you, then as a ſimple, plain-hearted, and right-chriſti<g ref="char:EOLhyphen"/>an
+Application of my ſelf, to vindicate the juſt right and claim of
+the dearly beloved of my Soul (and I truſt, of yours alſo) Truth.</p>
+            <p>Firſt therefore, whereas you were pleaſed to take that undue li<g ref="char:EOLhyphen"/>berty
+of Conſcience, as to affirm, That the ſaid Book, againſt which
+you ſo publickly inveighed, before you had (I fear) privately ſurvey<g ref="char:EOLhyphen"/>ed
+it, or that the Doctrines or Opinions maintained therein advance
+carnal Reaſon into the Throne of God (or words to like effect) be
+pleaſed to underſtand, that this was an aſſertion, proceeding either
+from ignorance, and this extreamly palpable and groſs, or elſe from
+an itching humor to aſperſe, and defame, though never ſo untruly:
+both which are very evill Oracles for a Miniſter of the Goſpel to
+conſult about his Pulpit affairs. And Sir, I judg that I may very
+Chriſtianly expect from you, that either you produce ſome paſſage
+from the ſaid Book, wherein carnal Reaſon is ſo magnified, as you
+affirmed (which I am certain you cannot do,) or elſe that you make
+<pb n="5" facs="tcp:105405:3"/>
+an ingenuous and free acknowledgement, that at this turn you loſt
+your way of dealing Chriſtianly. That Reaſon, the uſe, exerciſe,
+and ſervice whereof the Preface of that Book requireth of all men,
+in, and about matters of Religion, is not carnal Reaſon, if by car<g ref="char:EOLhyphen"/>nal,
+you mean, ſenſual, worldly, blinde, corrupt, or the like: but
+that Candle, or Lamp of the Lord (as <hi>Solomon</hi> calleth it, <hi>Prov.</hi> 20.
+27.) that ſpiritual or inward Light, which God himſelf hath plant<g ref="char:EOLhyphen"/>ed
+in the Souls of men, by which they are made able, though not
+always willing, to ſearch out, diſcover, and diſcern many worthy
+Truths, as well concerning God himſelf, as, <hi>that he is, that he is
+good, wiſe, just, powerful, &amp;c.</hi> as in other things. It is not by car<g ref="char:EOLhyphen"/>nal
+Reaſon [<hi>i. e.</hi> by Reaſon as it is made, or becomes carnal,
+through the wilful negligence, and ſinfulneſs of men] that men by
+the force and help of it come to diſcover that there is a God, or
+that this God is Good, Juſt, &amp;c. the carnality that cleaves to it, is
+a cumber, and hinderance to it, in ſuch actings and workings as
+theſe: but it is by Reaſon, as retaining that of God in it, or ſuch
+impreſſions of divine Light, whereby, notwithſtanding much en<g ref="char:EOLhyphen"/>feeblement
+and dimneſs contracted by the irregularities of men in
+ſundry kindes, it is yet able, and in ſome capacity, to diſcover and
+judg of many ſuch worthy Truths, as thoſe mentioned. Nor doth
+the ſaid Preface aſcribe this ability, or capacity we ſpeak of, unto
+Reaſon ſimply conſidered, or as bare or meer Reaſon, much leſs,
+as carnal Reaſon, but as ſuper-intended, influenced, and ſupported,
+in, and about her movings and actings, by the Spirit of God him<g ref="char:EOLhyphen"/>ſelf.
+Which Spirit of God ſeldom or never withdraweth himſelf,
+in his ſuper-intendency over the Reaſons and Underſtandings of
+men, to ſuch a degree, but that they are ſtill preſerved in ſome ca<g ref="char:EOLhyphen"/>pacity
+of ſearching after, finding out, and diſcerning aright, the
+things of their eternal Peace (I mean, things eſſentially requiſite
+hereunto) until after much, and long abuſe of his gracious preſence
+and treatings with them, by walking ſtubbornly againſt that Light
+of the Truth, wherewith he hath enlightened them, and thoſe
+motions and ſecret excitements unto Righteouſneſs, with which
+he hath followed them from time to time. Beſides, what Reaſon
+ſoever it is, which the ſaid Preface intereſſeth in the diſcerning and
+judging matters of Religion, it is ſo far from advancing it into the
+Throne of God hereby, that it onely ſubjecteth it to the Com<g ref="char:EOLhyphen"/>mands
+of God in this behalf, who in a thouſand places enjoyneth
+<pb n="6" facs="tcp:105405:4"/>
+ſuch duties unto men, to the performance whereof they cannot
+prepare or fit themſelves in the loweſt degree, without the uſe and
+exerciſe of their Reaſons and Underſtandings. Therefore Sir, your
+Charge againſt the ſaid Book, or Preface, with the advancing of
+carnal Reaſon, in one kinde or other, but eſpecially, into the Throne
+of God, is a moſt Unchriſtian, yea Unmanlike Slander, having nei<g ref="char:EOLhyphen"/>ther
+ground, nor colour of ground, for the juſtification of it.</p>
+            <p>Secondly, Whereas you repreſented (indeed, reproached) the
+ſaid Opinions of your Conteſt, as the great Advancers of Natures,
+and Adverſaries to the free Grace of God, I deſire an ingenuous,
+fair, and Chriſtian Account hereof alſo. For certain I am (and
+you may readily be ſo too, if you pleaſe, in caſe you be not as cer<g ref="char:EOLhyphen"/>tain
+already) that the Scriptures lay not the leaſt jot or tittle of any
+ſuch imputation upon them. If you plead, but Reaſon doth; do
+you not give both me and others, by this plea, juſt cauſe to judg,
+that you manage your Religion by affection, or peradventure onely,
+and reſerve your Reaſon for unworthy practices? But however, I
+ſhall be content to ſtand by the award of Reaſon in the caſe. For
+certain I am, the matter being as clear as the light at Noon day,
+that the ſaid Opinions are the great Afflicters, Humblers, Abaſers
+of Nature (if by Nature, you mean, Nature corrupted and depra<g ref="char:EOLhyphen"/>ved)
+and withall, the great Advancers and Magnifiers of the free
+Grace of God; reſolving all the ſhame, guilt, demerit, puniſh<g ref="char:EOLhyphen"/>ment,
+of all the ſins that are committed under the whole Heaven,
+into the corruption and depraved Wills of men; and all Acts of
+Righteouſneſs, Holineſs, Faith, Repentance, &amp;c. in the World,
+together with the rewards of them, into the free, meer, undeſerved
+Grace and Bounty of God. Whereas your Chimerical Notions
+and Doctrines of a peremptory Perſonal Reprobation from Eter<g ref="char:EOLhyphen"/>nity,
+of neceſſitating Grace, &amp;c. do moſt notoriouſly and mani<g ref="char:EOLhyphen"/>feſtly
+burthen and charge the moſt infinitely-pure and righteous,
+the moſt infinitely-ſweet and gracious Nature of God, both with
+all the ſhame of all the ſins and wickedneſſes, that are practiſed in
+all the World, as likewiſe with all the miſeries, puniſhments, tor<g ref="char:EOLhyphen"/>ments,
+which ever come to be inflicted upon poor Creatures for
+ſuch things. All the water in the Sea will not waſh your Opini<g ref="char:EOLhyphen"/>ons
+clean from the ſtain and horrid foulneſs of this abomination.
+They that have attempted the waſhing of them, <hi>AEthiopem la<g ref="char:EOLhyphen"/>varunt,</hi>
+have (according to the Proverb) but waſhed a <hi>Blacka<g ref="char:EOLhyphen"/>moor.</hi>
+               <pb n="7" facs="tcp:105405:4"/>
+And as for your pretended magnifyings of the Grace of
+God by your Opinions, they are nothing elſe but the abuſe of the
+ſimplicity and credulous weakneſs of inconſiderate men. For the
+certain Truth is, that were the <hi>Grace of God</hi> ſuch a thing, as you,
+with others of your Sence, imperiouſly and importunely obtrude
+under that name, upon the Judgments and Conſciences of men, the
+Receivers of it were never the neerer Salvation for the collation
+of it by God upon them. This is made manifeſt above all reaſonable
+contradiction in Pag. 319. of that Book which you ſo much abhor.</p>
+            <p>Thirdly, Whereas you, after the uſual manner of thoſe that a<g ref="char:EOLhyphen"/>bound
+in Paſſion, but are ſcanted in Underſtanding, filled the ears
+of your Auditory with a ſound of words, purporting I know not
+what ſad uncomfortableneſs in the Doctrine about falling away
+(maintained in the ſaid Book) you ſhould have done well, before
+you had condemned the innocent, not onely to have heard his
+Cauſe, and weighed his Plea, but to have given likewiſe ſome
+competent account (at leaſt) of the inſufficiency and unſatisfacto<g ref="char:EOLhyphen"/>rineſs
+of it. I can hardly think that you had peruſed the nineth
+Chapter of the Book you wote of, before your definitive ſentence
+againſt the ſaid Doctrine: becauſe this Chapter chaſeth far away
+that Bugbear of uncomfortableneſs from before the face of that
+Doctrine, and lodgeth it in the Heart and Soul of that Doctrine
+of Perſeverance, which is (it ſeems) the enticing <hi>Dalila</hi> of Doctor
+<hi>Hills</hi> Soul. I perceive that the obſervation of this Rule of Chriſt,
+<hi>Judg not according to appearance, but judg righteous Judgment,</hi>
+is very rare amongſt men.</p>
+            <p>Fourthly, Whereas you put your Auditory upon the temptation
+to beleeve, that the nineth Chapter of the Epiſtle to the <hi>Romans,</hi>
+doth not at all treat of Juſtification by Faith, but of your Perſonal
+Reprobation from Eternity, or (which comes to the ſame) of a li<g ref="char:EOLhyphen"/>berty
+in God to chuſe and reprobate what perſons he pleaſeth; and
+ſought to make them partakers of your faith herein, by telling them
+ſtories of <hi>v. 13, 14, &amp;c.</hi> of this Chapter, as if they were all words,
+ſentences, and thoughts made for your minde in the buſineſs, I here
+offer unto you in a friendly way, to confer with you at your beſt
+leaſure, about the ſence and import of theſe Verſes, either private<g ref="char:EOLhyphen"/>ly
+with your ſelf alone, or with two, or more, or with as few, or
+as many, as you pleaſe, in preſence. At this Conference I ſhall de<g ref="char:EOLhyphen"/>ſire
+alſo to have the ſpirit of that boaſting of yours throughly tried,
+<pb n="8" facs="tcp:105405:5"/>
+which you built upon ſome other Texts of Scripture, with the
+ſlime of theſe, or ſuch like words, in ſtead of better mortar, <hi>viz.</hi>
+that whileſt they ſtand, your Opinions cannot fall. Indeed if you
+dare not truſt your Reaſon with the managing of the Conference,
+but reſolve to negotiate the buſineſs with your Paſſion, or with
+affection onely, I am like to make ſmall earnings (and your ſelf as
+ſmall) of the opportunity, were you willing to afford it. But if
+you have that good Opinion of your Judgment and Underſtand<g ref="char:EOLhyphen"/>ing,
+that you will allow theſe to treat, I make little queſtion but
+by the mediation and conſent of theſe, I ſhall prevail with you, as
+to the argument, or ſubject matter of the nineth to the <hi>Romans,</hi> to
+exchange your Reprobation for my Juſtification, and to acknow<g ref="char:EOLhyphen"/>ledg,
+that the Apoſtle in this Chapter diſcourſeth ſtill forward that
+great Doctrine of Juſtification by Faith, which he had (onely with
+ſome occaſional inſertions of other matters by the way) proſecuted
+(well-nigh) from the beginning of the Epiſtle. As for your con<g ref="char:EOLhyphen"/>ceit
+of a Perſonal Reprobation from Eternity handled in the ſaid
+Chapter, you may, if you pleaſe, ſee the comb of the confidence
+thereof cut by that Hand of Light, which is ſtretched forth in the
+68 Page of that troubleſom Book we ſpake of, where the 15 and
+21 Verſes of the Chapter are in part opened. Somewhat alſo upon
+the ſame account is to be ſeen pag. 462. of the Book.</p>
+            <p>Fifthly, Whereas you challenged or charged your Adverſaries,
+that they are wont indeed to diſcourſe other the Attributes of
+God, but ſeldom or never ſpeak of his Soveraignty; firſt, I do
+not remember where I ever found, no not in any of thoſe Authors,
+which you (I ſuppoſe) preſume yours, the Soveraignty of God
+numbered amongſt his Attributes. But, 2. he his Soveraignty an
+Attribute, or no, I beleeve it was very inconſiderately (to ſpeak
+ſoftly) affirmed by you, that the perſons you charge, ſeldom or
+never treat of it. I know none of them (nor do you, I ſuppoſe,
+know any more) that omit or wave the conſideration of it, when
+ever any good occaſion falls in their way to diſcourſe it. Some<g ref="char:EOLhyphen"/>what
+you may finde concerning the Prerogative of God (which, I
+preſume, is either the ſame, or of very neer affinity, with his So<g ref="char:EOLhyphen"/>veraignty)
+in the Book ſo oft pointed at, pag. 67, 68<note n="a" place="margin">Yea the <hi>Soveraign<g ref="char:EOLhyphen"/>ty</hi> of God is expreſly &amp; by name aſſerted in the latter of theſe pages.</note>. Indeed it is
+no great marvel if you finde not the perſons you mean ſpeaking
+much of the Soveraignty of God, as you call Soveraignty: they
+are not wont to ſpeak much of that which is not. I beleeve you will
+<pb n="9" facs="tcp:105405:5"/>
+finde that, which you notion for Soveraignty in God, diſclaimed
+by the great Founder and Father himſelf of your Faith in your
+Contra-Remonſtrancy, Mr <hi>Calvin</hi> I mean, in this Paſſage from his
+own pen. <hi>Faceſſant ergo procul à piis mentibus monſtroſae illae ſpe<g ref="char:EOLhyphen"/>culationes,
+plùs aliquid Deum poſſe, quàm conveniat: vel eum ſinc
+modo &amp; ratione quicquam agere. Nec verò commentum illud re<g ref="char:EOLhyphen"/>cipio,
+Deum, quia Lege ſolutus ſit, quicquid agat, reprehenſione
+vacare. Deum enim qui exlegem facit, maximà cum gloriae ſuae
+parte ſpoliat, quia rectitudinem ejus ac justiciam ſepelit</hi>
+               <note n="b" place="margin">
+                  <hi>Theſe Latin paſſages ſpeak in Engliſh to this effect.</hi> Far then be ſuch monſtrous <gap reason="illegible: faint" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>culations as theſe from pi<g ref="char:EOLhyphen"/>ous mindes, that God can do ſomething more, then what is conve<g ref="char:EOLhyphen"/>nient; or that he doth any thing without meaſure or reaſon. Nor do I admit of that deviſed conceit, that God is there<g ref="char:EOLhyphen"/>fore improv<g ref="char:EOLhyphen"/>able, whatſoe<g ref="char:EOLhyphen"/>ver <hi>he</hi> doth, be<g ref="char:EOLhyphen"/>cauſe <hi>he</hi> is free from all Law. For he that makes God lawleſs, de<g ref="char:EOLhyphen"/>ſpoileth him of the greateſt part of his glo<g ref="char:EOLhyphen"/>ry, becauſe he buryeth his Rectitude and juſtice.</note> Calvin.
+<hi>Opuſc. De AEternâ Dei Praedeſt.</hi> p. 843. I have ground to ſuſ<g ref="char:EOLhyphen"/>pect,
+that by your <hi>Soveraignty of God,</hi> you mean a lawleſſneſs, or
+exemption from all Reaſon, rectitude, or juſtice in acting. If ſo,
+you ſee you <hi>Anti Calvinize,</hi> as well as <hi>Anti-Arminianize,</hi> yea,
+and that which is worſe then both, you <hi>Anti Christianize,</hi> blaſ<g ref="char:EOLhyphen"/>pheming
+<hi>God</hi> by Attributing that to him, which is ſo inconſiſtent
+with his glory.</p>
+            <p>Sixthly (and laſtly) Whereas you reflected upon the Author of
+that Book, which ſo torments thoſe that dwell on the Earth, as if he
+falſified, wreſted, perverted Authors, after the maner of the Biſhops
+in their days, when they pleaded for Altars, &amp;c. or uſed words of this
+import; the very truth is, that this alſo, if it be comely to call a ſpade,
+a ſpade, is a pure, pute, and putid calumny. The Authors cited in the
+ſaid Book, at leaſt the far greater part of them, ſpeak as clearly, as di<g ref="char:EOLhyphen"/>rectly,
+as diſtinctly, to the heart of the main Doctrines maintained in
+the Book, as the Author of the Book himſelf. Nor are you, nor any
+other man, able to prove the leaſt touch of any falſifying, or per<g ref="char:EOLhyphen"/>verting
+any one Author brought upon that ſtage. <hi>Si quid humani<g ref="char:EOLhyphen"/>tùs
+acciderit,</hi> if there be any thing unwittingly miſtaken (as miſ<g ref="char:EOLhyphen"/>takes
+in this kinde may be incident to the moſt upright of men) in
+any quotation, this onely proves the Author to be a man, not a
+falſifier. Yea, there is nothing aſſerted or maintained in the ſaid
+Book, eſpecially in the two main Doctrines there contended for,
+but what (for ſubſtance, and effect of matter) is plainly affirmed,
+and held forth, over and over, not onely by he beſt and moſt Or<g ref="char:EOLhyphen"/>thodox
+Fathers, <hi>Chryſostom, Augustin, &amp;c.</hi> but by the moſt
+Orthodox Writers likewiſe of later Times, as <hi>Luther, Calvin,
+Muſculus,</hi> and others. Yea your ſelves, the Preachers of this pre<g ref="char:EOLhyphen"/>ſent
+Age, how ever by times you appear in flames of fire againſt
+them, yet otherwhile, and ſometimes in one and the ſame Sermon,
+<pb n="10" facs="tcp:105405:6"/>
+you give Teſtimony unto them. There is ſufficient proof made pag.
+561. of the Book ſo impotently decryed by you, that a Jury of
+no fewer then 52 Preachers, and amongſt theſe, ſuch as are count<g ref="char:EOLhyphen"/>ed
+Pillars, in, and about the City of <hi>London,</hi> in the ſame Pamphlet,
+wherein (as they pretend) they give <hi>Teſtimony to the Truth of
+Jeſus Christ againſt Errors and Hereſies,</hi> do clearly build up the
+principal Doctrine avouched in the ſaid Book, <hi>viz.</hi> that which
+teacheth <hi>General Redemption</hi> by <hi>Christ.</hi> Yea your ſelf, in this ve<g ref="char:EOLhyphen"/>ry
+Sermon, wherein you ſet your ſelf with all the might of your
+indignation againſt it, yet gave the right hand of fellowſhip unto
+it, in granting and affirming, that you beleeve and teach, <hi>That
+had</hi> Judas <hi>beleeved, he ſhould have been ſaved by Chriſt.</hi> See (I
+deſire it rather to your ſatisfaction, then ſhame) the Doctrine of
+<hi>General Redemption</hi> demonſtratively proved and evinced from
+ſuch a Poſition as this, pag. 113, 114, 115, <hi>&amp;c.</hi> and again, p. 135,
+136. of that Truth-teaching Book, ſo often hinted. Yea the Synod
+of <hi>Dort</hi> it ſelf (as is ſomewhere obſerved in this Book<note n="c" place="margin">Page 547</note>) acknow<g ref="char:EOLhyphen"/>ledgeth,
+that <hi>If Redemption be not acknowledged as a common
+benefit beſtowed on Mankinde, that General and promiſcuous
+Preaching of the Gospel committed unto the Apoſtles to be per<g ref="char:EOLhyphen"/>formed
+among all Nations, will have no true foundation.</hi> There<g ref="char:EOLhyphen"/>fore
+whileſt you oppoſe and clamor againſt <hi>General Redemption,</hi>
+you do not onely cry down the glory of the unſearchable riches of
+the free Grace of God, vouchſafed in Chriſt unto the World, but
+alſo quarrel and fight your beſt friends, as well as thoſe, whom you
+count your Adverſaries, and traduce under the Name of <hi>Pelagians,
+Arminians, &amp;c.</hi> liveries made of the ſame, or like cloth, which
+the Servants of the <hi>Truth</hi> have been compelled to wear in all ages.
+Yea in ſuch your inconſiderate Conteſts, you act as men divided, in,
+and againſt your ſelves; and your ſayings, like the children of <hi>Am<g ref="char:EOLhyphen"/>mon</hi>
+and <hi>Moab,</hi> when they came forth to battel againſt <hi>Judah</hi> and
+<hi>Jehoſaphat,</hi> help to deſtroy one another<note n="d" place="margin">2 Chron 20, 23</note>.</p>
+            <p>Sir, The Premiſſes conſidered (with ſeveral other things of no
+better import, about which notwithſtanding I ſhall not be trouble<g ref="char:EOLhyphen"/>ſom
+unto you, at the preſent) I cannot but expect ſome Chriſtian
+ſatisfaction from you, at leaſt in the behalf of thoſe moſt worthy
+and important Truths of God, which you ſo unworthily, and this
+ſtanding in the place of God, traduced unto his People. And (to
+deal plainly and clearly with you) the Satisfaction I expect muſt
+<pb n="11" facs="tcp:105405:6"/>
+be ſome ways commenſurable to the miſdemeanor, in circum<g ref="char:EOLhyphen"/>ſtances
+reſpecting as well the publiqueneſs of it, as the notoriouſ<g ref="char:EOLhyphen"/>neſs
+and offenſiveneſs of it, in all particulars. I expect likewiſe that
+this Satisfaction be ſpeedy, and without delay: or at leaſt that you
+will ſpedily engage your ſelf <hi>verbo Sacerdotis,</hi> that you will ac<g ref="char:EOLhyphen"/>cordingly
+expedite the ſame with the firſt opportunity. Other<g ref="char:EOLhyphen"/>wiſe
+I ſhall be neceſſitated to do that, which (I ſuppoſe) will not
+be for your Honor; I mean, to publiſh in print unto the World,
+your Athecological Demeanor in the Pulpit, as well in your Moral,
+as Intellectual Miſcarriages; and ſhall out of hand begin with the
+printing of the Contents of this Letter, in caſe I hear not forth<g ref="char:EOLhyphen"/>with
+from you. Sir, if I knew how to relieve thoſe Truths of
+God, which you deſperately affronted, there, where they ſuffer<g ref="char:EOLhyphen"/>ed
+by you, and may yet further ſuffer (I mean, in the Mindes and
+Judgments of thoſe who heard you, and of thoſe who may hear
+the Contents of what you delivered upon this ſad account) with<g ref="char:EOLhyphen"/>out
+making a breach upon your reputation, I ſhould freely paſs by
+mine own Intereſt, and demand nothing of you for Perſonal Re<g ref="char:EOLhyphen"/>parations;
+although I beleeve that you hardly know how to pro<g ref="char:EOLhyphen"/>voke
+at much as higher rate, then you practiſed provocation upon
+me, in the Premiſſes: unleſs (haply) that may be ſome allay here<g ref="char:EOLhyphen"/>of,
+that you were raviſhed by ſome other mans ſpirit, far worſe
+then your own, into ſuch a ſplenetique Ecſtaſie. For Dr <hi>Hill</hi> hath
+formerly worn the crown of a meek, temperate, and Chriſtian ſpi<g ref="char:EOLhyphen"/>rit.
+But we read, that <hi>Moſes</hi> the Saint of the Lord, and meekeſt
+man on Earth, yet was at the waters of ſtrife provoked to ſpeak
+unadviſedly with his lips: and I (with many others) do beleeve,
+that Dr <hi>Hill</hi> was overſhadowed with the ſpirit of ſome Lion, or
+other (and which probably I could point at amongſt the herd)
+when he conceived thoſe roarings (as <hi>David</hi> expreſſeth ſomewhat
+the like carriages of the Tongues of men, <hi>Pſal.</hi> 74. 4.) or thoſe
+devouring words (another Metaphor of the ſame pen) whereof
+he was delivered in the Pulpit, <hi>May</hi> 4. 1651. The ground of my
+conjecture herein, is, partly becauſe that which was born of him
+here, had ſo little of his own likeneſs in it, partly becauſe it had
+ſo much of the likeneſs of another man. But, concerning my ſelf,
+the beſt is, that I am ſecure, that neither you, nor others, can
+value me at any lower rate, then I do my ſelf. You trod but upon
+the Earth, when you trampled me under your feet. If you purſue
+<pb n="12" facs="tcp:105405:7"/>
+me to the grave, you cannot hinder my Reſurrection; the day
+whereof will be time enough for me to become any thing. I truſt
+you will take nothing amiſs in theſe lines. If there be any thing
+hard in them, I hope you will put it upon your own account,
+not mine. The Law of Nature and Reaſon is, that they who be<g ref="char:EOLhyphen"/>get
+Children, ſhould undergo the trouble and charge of keeping
+them, prove they never ſo troubleſom, untoward, or hard-favor'd.
+They that will adventure <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> muſt make account
+to meet with that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> which belongs to it. Howſoever my
+Prayer for you is, and ſhall be, that God will give you Repent<g ref="char:EOLhyphen"/>ance
+to the acknowledgment of his Truth, and your own Error.</p>
+            <closer>
+               <signed>Your Brother, and
+Servant in CHRIST,
+<hi>John Goodwin.</hi>
+               </signed>
+               <dateline>
+                  <hi>Colemanſtreet,</hi>
+London, <date>May
+9. 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>IF in any of the Particulars taken notice of from your Sermon,
+there be any miſtake in words, and much more if in ſubstance
+of matter, to your diſadvantage, I ſhall be glad, upon better infor<g ref="char:EOLhyphen"/>mation
+from your ſelf, to rectifie my ſelf in ſuch miſtakes, and ſo
+proportionably to caſe your burthen of ſhame, and mine own of ſor<g ref="char:EOLhyphen"/>row
+for you. I know the miſcarriages of the beſt and wiſeſt of men,
+are too many: and far be it from me to make any man a delin<g ref="char:EOLhyphen"/>ſtrued
+with as much favor, as a good Conſcience will, or
+can, afford. If you can, and be willing to, diſclaim, or diſown, any
+thing in the ſaid Particulars, I deſire to hear ſpeedily from you up<g ref="char:EOLhyphen"/>on
+that account: otherwiſe I ſhall (I judg, upon ſufficient ground)
+preſume, that my Informations touching the Premiſſes were Or<g ref="char:EOLhyphen"/>thodox
+and Authentique.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:105405:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
